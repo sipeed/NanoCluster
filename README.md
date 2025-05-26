@@ -4,6 +4,9 @@
 
 > Compact & Affordable Cluster for Everyone
 
+This repository is mainly for user feedback. You can submit related usage issues to discuss.
+ 
+
 ## Introduction
 
 NanoCluster is an ultra-miniature cluster board developed by Sipeed, featuring 7 SOM slots interconnected via a RISC-V-based Gigabit switch. It supports USB-C PD power supply and optional PoE expansion. Additionally, NanoCluster provides independent UART and power control, making it an ideal entry-level platform for HomeLab users exploring distributed computing, Kubernetes, Docker, and edge computing.
