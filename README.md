@@ -5,7 +5,7 @@
 > Compact & Affordable Cluster for Everyone
 
 This repository is mainly for user feedback. You can submit related usage issues to discuss.
- 
+
 
 ## Introduction
 
@@ -208,7 +208,9 @@ The NanoCluster adopts an open SOM interface standard, supporting both official 
 
 ## Where to Buy
 
-- [Pre-sale Page](https://sipeed.com/nanocluster)
+- [Taobao Store](https://item.taobao.com/item.htm?id=977609765104)
+
+- [AliExpress Store](https://www.aliexpress.com/item/1005009393696842.html)
 
 ## Resources & Community
 
