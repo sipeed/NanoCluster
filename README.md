@@ -206,6 +206,12 @@ The NanoCluster adopts an open SOM interface standard, supporting both official 
     </tr>
 </table>
 
+## Community Projects
+
+* **[NanoCtl](https://github.com/AlejandroPerez92/nanoctl)**: A native Go CLI tool and daemon for managing Nano Cluster nodes (CM5). Features include power management via GPIO, intelligent PID fan control, and metrics export to Prometheus/OpenTelemetry.
+
+* **[Nomad & Consul Playbook](https://github.com/caiodelgadonew/nomad-playbook)**: An Ansible playbook to bootstrap a single-server Nomad & Consul cluster (with client nodes) using Podman or Docker. Enables one-command deployment ideal for HomeLab setups.
+
 ## Where to Buy
 
 - [Taobao Store](https://item.taobao.com/item.htm?id=977609765104)
